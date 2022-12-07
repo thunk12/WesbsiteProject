@@ -1,0 +1,27 @@
+Website about a fake buisness?
+Fake buisness ideas:
+Robo-hamster security device
+snail rental
+evil lair insurance
+
+ok lets go with snail rental
+------------------------------------------------------------
+Pages:
+
+homepage
+..............
+about
+..............
+pricing
+..............
+Take A Quiz!
+
+    Is snail rental right for you? (quiz)
+      1. do you like snails?
+      2. What is your bank balance? ( any answer above 0)
+      3. are you willing to trust the snail with your 
+        personal information (Social Insurance number, bank passwords, credit card info, etc.)?
+      4. what is the ideal humidity for snails?
+      5. Are snails carnivores, herbivores, or omnivores?
+      6. What photo ID do you have for the snail to look at (Drivers license, passport,
+        citizenship card, etc.)?

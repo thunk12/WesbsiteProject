@@ -1,0 +1,127 @@
+body {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1050px;
+  background-color: rgb(183, 204, 145);
+  background-image: url("bg.jpg");
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background: rgba(137, 214, 140, 0.3);
+}
+img {
+  border: 5px ridge forestgreen;
+}
+
+hr {
+  border: 3px ridge green;
+}
+
+h1 {
+  color: rgb(16, 34, 16);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h2 {
+  color: rgb(16, 34, 16);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h3 {
+  color: rgb(16, 34, 16);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h4 {
+  color: rgb(16, 34, 16);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+h5 {
+  font-size: 12px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: justify;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  font-size: medium;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: solid darkgreen;
+  padding-left: 9px;
+  padding-right: 9px;
+}
+
+a:hover {
+  border: 2px solid darkgreen;
+  font-size: 18px;
+  background-color: rgb(208, 255, 231);
+}
+
+li {
+  font-family: Tahoma, sans-serif;
+  text-align: justify;
+}
+
+.alert {
+  font-size: 15px;
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.thin {
+  border: 1px double green;
+}
+html {
+  background: url(img/bg.jpg) center;
+}
+
+.stick {
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0px;
+}
+
+.gug {
+  float: right;
+  width: 15%;
+  text-align: right;
+  margin-right: 5px;
+}
+
+button {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(112, 228, 97);
+  padding: 7px 14px;
+  border-radius: 10px;
+  font-size: 18px;
+  box-shadow: 0 5px rgba(0, 100, 0, 0.445);;
+}
+
+button:hover {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(255, 185, 255);
+  padding: 7px 14px;
+  border-radius: 10px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+button:active {
+  background-color: purple;
+  transform: translateY(3px);
+  cursor: pointer;
+  color: white;
+  box-shadow: 0 5px rgba(0, 100, 0, 0);;
+}
